@@ -250,7 +250,7 @@ const Page10 = () => {
                             alt="rectangleTwentyFour"
                           />
                           <Button
-                            className="flex h-[60px] items-center justify-center ml-[17px] mt-[-30px] rounded-[50%] shadow-bs4 w-[60px] z-[1]"
+                            className="flex h-[60px] items-center justify-center ml-[17px] mt-[-30px] rounded-[50%] shadow-bs1 w-[60px] z-[1]"
                             shape="circle"
                             color="pink_400"
                             variant="fill"
@@ -371,7 +371,7 @@ const Page10 = () => {
                             </div>
                           </div>
                           <Button
-                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs4 w-[60px]"
+                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs1 w-[60px]"
                             shape="circle"
                             color="pink_400"
                             variant="fill"
@@ -451,7 +451,7 @@ const Page10 = () => {
                             </div>
                           </div>
                           <Button
-                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs4 w-[60px]"
+                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs1 w-[60px]"
                             shape="circle"
                             color="pink_400"
                             variant="fill"
@@ -524,7 +524,7 @@ const Page10 = () => {
                             </div>
                           </div>
                           <Button
-                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs4 w-[60px]"
+                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs1 w-[60px]"
                             shape="circle"
                             color="pink_400"
                             variant="fill"
@@ -597,7 +597,7 @@ const Page10 = () => {
                             </div>
                           </div>
                           <Button
-                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs4 w-[60px]"
+                            className="absolute bottom-[37%] flex h-[60px] items-center justify-center left-[4%] rounded-[50%] shadow-bs1 w-[60px]"
                             shape="circle"
                             color="pink_400"
                             variant="fill"

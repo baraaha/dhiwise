@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 import { Button, Img, Line, List, Text } from "components";
 import Header1 from "components/Header1";
+import Header2 from "components/Header2";
 
 const TenPage = () => {
   const navigate = useNavigate();

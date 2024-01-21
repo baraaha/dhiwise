@@ -27,7 +27,7 @@ const ThreePage = () => {
                     className="flex flex-col gap-4 items-center w-full"
                     orientation="vertical"
                   >
-                    <div className="bg-white-A700_6c flex flex-1 flex-col items-center justify-start my-0 outline outline-[1px] outline-indigo-50_6c p-2.5 rounded-[10px] shadow-bs3 w-full">
+                    <div className="bg-white-A700_6c flex flex-1 flex-col items-center justify-start my-0 outline outline-[1px] outline-indigo-50_6c p-2.5 rounded-[10px] shadow-bs4 w-full">
                       <div className="flex md:flex-col flex-row md:gap-5 items-center justify-start w-[98%] md:w-full">
                         <div className="flex flex-col gap-10 items-start justify-start w-[11%] md:w-full">
                           <Img
@@ -66,7 +66,7 @@ const ThreePage = () => {
                         />
                       </div>
                     </div>
-                    <div className="bg-white-A700_6c flex flex-1 flex-col items-center justify-start my-0 outline outline-[1px] outline-indigo-50_6c p-2.5 rounded-[10px] shadow-bs3 w-full">
+                    <div className="bg-white-A700_6c flex flex-1 flex-col items-center justify-start my-0 outline outline-[1px] outline-indigo-50_6c p-2.5 rounded-[10px] shadow-bs4 w-full">
                       <div className="flex md:flex-col flex-row md:gap-5 items-center justify-start w-[98%] md:w-full">
                         <div className="flex flex-col gap-10 items-start justify-start w-[16%] md:w-full">
                           <Img

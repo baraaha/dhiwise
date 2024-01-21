@@ -105,7 +105,7 @@ const Header = (props) => {
                     <li>
                       <Text
                         className="common-pointer capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                        size="txtTajawalRegular24"
+                        size="txtTajawalRegular24Black900"
                         onClick={() => navigate("/seven")}
                       >
                         عن سهول
@@ -114,7 +114,7 @@ const Header = (props) => {
                     <li>
                       <Text
                         className="common-pointer capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                        size="txtTajawalRegular24"
+                        size="txtTajawalRegular24Black900"
                         onClick={() => navigate("/page4")}
                       >
                         تواصل معنا
@@ -123,7 +123,7 @@ const Header = (props) => {
                     <li>
                       <Text
                         className="common-pointer capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                        size="txtTajawalRegular24"
+                        size="txtTajawalRegular24Black900"
                         onClick={() => navigate("/page3")}
                       >
                         فيديو
@@ -132,7 +132,7 @@ const Header = (props) => {
                     <li>
                       <Text
                         className="common-pointer capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                        size="txtTajawalRegular24"
+                        size="txtTajawalRegular24Black900"
                         onClick={() => navigate("/six1")}
                       >
                         الطلبات
@@ -141,7 +141,7 @@ const Header = (props) => {
                     <li>
                       <Text
                         className="common-pointer capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                        size="txtTajawalRegular24"
+                        size="txtTajawalRegular24Black900"
                         onClick={() => navigate("/page7")}
                       >
                         القائمة
@@ -150,7 +150,7 @@ const Header = (props) => {
                     <li>
                       <Text
                         className="common-pointer capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                        size="txtTajawalRegular24"
+                        size="txtTajawalRegular24Black900"
                         onClick={() => navigate("/page10")}
                       >
                         الرئيسية

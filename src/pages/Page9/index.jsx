@@ -7,7 +7,7 @@ const Page9 = () => {
   return (
     <>
       <div className="bg-gray-50 flex flex-col font-worksans sm:gap-10 md:gap-10 gap-[89px] items-center justify-start mx-auto pb-[197px] w-full">
-        <Header className="flex flex-col items-center justify-center md:px-5 shadow-bs1 w-full" />
+        <Header className="flex flex-col items-center justify-center md:px-5 shadow-bs2 w-full" />
         <div className="flex flex-col font-tajawal items-center justify-start max-w-[1099px] mx-auto md:px-5 w-full">
           <div className="flex md:flex-col flex-row md:gap-10 items-start justify-between w-full">
             <div className="flex md:flex-1 flex-col gap-[19px] items-end justify-start w-[47%] md:w-full">

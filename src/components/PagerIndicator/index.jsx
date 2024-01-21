@@ -29,14 +29,10 @@ const PagerIndicator = ({
           return (
             <div
               key={"indicator" + i}
-              className={`${
-                isActive ? selectedWrapperCss : unselectedWrapperCss
-              } `}
+              className={`${isActive ? selectedWrapperCss : unselectedWrapperCss} `}
             >
               <span
-                className={`${
-                  isActive ? activeCss : inactiveCss
-                } slider-indicator`}
+                className={`${isActive ? activeCss : inactiveCss} slider-indicator`}
                 onClick={() => sliderRef?.current?.slideTo(i * slidesToShow)}
               />
             </div>

@@ -7,7 +7,7 @@ const Page14 = () => {
   return (
     <>
       <div className="bg-gray-50 flex flex-col font-worksans sm:gap-10 md:gap-10 gap-[87px] items-center justify-start mx-auto pb-[199px] w-full">
-        <Header className="flex flex-col items-center justify-center md:px-5 shadow-bs1 w-full" />
+        <Header className="flex flex-col items-center justify-center md:px-5 shadow-bs2 w-full" />
         <div className="flex md:flex-col flex-row font-tajawal md:gap-10 gap-[70px] items-start justify-center max-w-[1099px] mx-auto md:px-5 w-full">
           <div className="flex md:flex-1 flex-col gap-[19px] items-end justify-start w-[47%] md:w-full">
             <Text

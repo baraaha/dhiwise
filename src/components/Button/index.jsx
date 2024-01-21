@@ -55,9 +55,7 @@ const Button = ({
 }) => {
   return (
     <button
-      className={`${className} ${(shape && shapes[shape]) || ""} ${
-        (size && sizes[size]) || ""
-      } ${(variant && variants[variant]?.[color]) || ""}`}
+      className={`${className} ${(shape && shapes[shape]) || ""} ${(size && sizes[size]) || ""} ${(variant && variants[variant]?.[color]) || ""}`}
       {...restProps}
     >
       {!!leftIcon && leftIcon}

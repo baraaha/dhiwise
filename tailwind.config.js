@@ -174,11 +174,11 @@ module.exports = {
       },
       boxShadow: {
         bs: "0px 0px  15px 0px #2a324019",
-        bs3: "10px 6px  40px 0px #7f7d7d26",
-        bs4: "0px 4px  4px 0px #00000007",
+        bs4: "10px 6px  40px 0px #7f7d7d26",
+        bs1: "0px 4px  4px 0px #00000007",
         bs5: "0px 4px  8px 0px #00000007",
-        bs2: "0px 4px  10px 0px #00000007",
-        bs1: "0px 7px  10px 0px #00000007",
+        bs3: "0px 4px  10px 0px #00000007",
+        bs2: "0px 7px  10px 0px #00000007",
         bs6: "0px 8px  18px 0px #00000011",
       },
       backgroundImage: {

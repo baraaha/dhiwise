@@ -12,13 +12,13 @@ const One3Page = () => {
     <>
       <div className="bg-gray-50 flex flex-col font-worksans items-center justify-start mx-auto pb-[228px] w-full">
         <div className="flex flex-col md:gap-10 gap-[77px] items-center justify-start w-full">
-          <Header className="flex flex-col items-center justify-center md:px-5 shadow-bs1 w-full" />
+          <Header className="flex flex-col items-center justify-center md:px-5 shadow-bs2 w-full" />
           <div className="flex md:flex-col flex-row font-tajawal md:gap-10 gap-[85px] items-start justify-start max-w-[1232px] mx-auto md:px-5 w-full">
-            <div className="bg-white-A700 flex md:flex-1 flex-col items-end justify-end py-2.5 rounded-[20px] shadow-bs2 w-[42%] md:w-full">
+            <div className="bg-white-A700 flex md:flex-1 flex-col items-end justify-end py-2.5 rounded-[20px] shadow-bs3 w-[42%] md:w-full">
               <div className="flex flex-row gap-[7px] items-end justify-end mr-6 mt-[13px] w-[34%] md:w-full">
                 <Text
                   className="capitalize mb-0.5 mt-[7px] text-2xl md:text-[22px] text-indigo-100 sm:text-xl"
-                  size="txtTajawalRegular24Indigo100"
+                  size="txtTajawalRegular24"
                 >
                   (2 طلب)
                 </Text>

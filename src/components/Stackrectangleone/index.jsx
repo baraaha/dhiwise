@@ -171,7 +171,7 @@ const Stackrectangleone = (props) => {
                       <li>
                         <Text
                           className="capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                          size="txtTajawalRegular24"
+                          size="txtTajawalRegular24Black900"
                         >
                           {props?.threehundredseventynine}
                         </Text>
@@ -179,7 +179,7 @@ const Stackrectangleone = (props) => {
                       <li>
                         <Text
                           className="capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                          size="txtTajawalRegular24"
+                          size="txtTajawalRegular24Black900"
                         >
                           {props?.threehundredeighty}
                         </Text>
@@ -187,7 +187,7 @@ const Stackrectangleone = (props) => {
                       <li>
                         <Text
                           className="capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                          size="txtTajawalRegular24"
+                          size="txtTajawalRegular24Black900"
                         >
                           {props?.threehundredeightyone}
                         </Text>
@@ -195,7 +195,7 @@ const Stackrectangleone = (props) => {
                       <li>
                         <Text
                           className="capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                          size="txtTajawalRegular24"
+                          size="txtTajawalRegular24Black900"
                         >
                           {props?.threehundredeightytwo}
                         </Text>
@@ -203,7 +203,7 @@ const Stackrectangleone = (props) => {
                       <li>
                         <Text
                           className="capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                          size="txtTajawalRegular24"
+                          size="txtTajawalRegular24Black900"
                         >
                           {props?.threehundredeightythree}
                         </Text>
@@ -211,7 +211,7 @@ const Stackrectangleone = (props) => {
                       <li>
                         <Text
                           className="capitalize text-2xl md:text-[22px] text-black-900 sm:text-xl"
-                          size="txtTajawalRegular24"
+                          size="txtTajawalRegular24Black900"
                         >
                           {props?.threehundredeightyfour}
                         </Text>
